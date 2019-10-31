@@ -1,0 +1,6 @@
+h5py==2.9.0
+Keras==2.2.4
+numpy==1.16.2
+opencv_python==4.1.0.25
+setuptools==39.1.0
+PyQt5==5.11.3
